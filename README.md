@@ -1,6 +1,8 @@
 # using-LLM
 
-> To best use of LLM, is to know they capabilities and limits.
+To make the best use of LLMs, it’s important to understand both their capabilities and their limitations.
+
+> Contributions are very welcome, just send me a PR!
 
 ## Training
 
